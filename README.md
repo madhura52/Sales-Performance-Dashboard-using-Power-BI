@@ -97,7 +97,7 @@ Focuses on operational efficiency by analyzing:
 ```
 Sales Dashboard/
 │
-├── Salaes_analysis.pbix
+├── Sales Performance Analysis.pbix
 ├── README.md
 └── Images/
       ├── Executive Overview.png
